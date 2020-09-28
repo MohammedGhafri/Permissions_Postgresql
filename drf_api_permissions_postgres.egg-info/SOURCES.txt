@@ -1,0 +1,12 @@
+setup.py
+drf_api_permissions_postgres/__init__.py
+drf_api_permissions_postgres/asgi.py
+drf_api_permissions_postgres/manage.py
+drf_api_permissions_postgres/settings.py
+drf_api_permissions_postgres/urls.py
+drf_api_permissions_postgres/wsgi.py
+drf_api_permissions_postgres.egg-info/PKG-INFO
+drf_api_permissions_postgres.egg-info/SOURCES.txt
+drf_api_permissions_postgres.egg-info/dependency_links.txt
+drf_api_permissions_postgres.egg-info/requires.txt
+drf_api_permissions_postgres.egg-info/top_level.txt
